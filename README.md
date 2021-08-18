@@ -1,6 +1,12 @@
 # ⏰ Horários do Dia ⏰
 
-Pagina desenvolvida com o intuito de praticar meus conhecimentos em JavaScript, a pagina tem como objetivo mudar de estilo de forma automatica conforme os periodos do dia também mudam.
+Pagina desenvolvida com o intuito de praticar meus conhecimentos em JavaScript, a pagina tem como objetivo mudar de estilo de forma automática conforme os periodos do dia também mudam.
+
+- manhã
+- tarde
+- noite
+
+OBS: o horário da aplicação corresponde ao horário do sistema do usuário.
 
 https://caio-vieira.github.io/Pagina-de-Horario/
 
